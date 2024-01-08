@@ -1,0 +1,159 @@
+﻿@{
+    ViewData["Title"] = "NewStock";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@section StylesPOS{
+    <link href="~/plugins/select2/css/select2.min.css" rel="stylesheet">
+
+    <link href="~/plugins/data-tables/datatables.bootstrap4.min.css" rel="stylesheet">
+    <link href="~/plugins/data-tables/buttons.bootstrap4.min.css" rel="stylesheet">
+    <link href="~/plugins/data-tables/responsive.datatables.min.css" rel="stylesheet">
+
+    <style>
+        .select2 {
+            width: 100% !important;
+        }
+
+    </style>
+}
+
+<div class="row">
+    <div class="col-sm-9">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card shadow mb-4">
+                    <div class="card-header py-3">
+                        <h4>Invoice Detail</h4>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-row">
+                            <div class="form-group col-sm-6">
+                              @*  @foreach (var item in ViewBag.datasource)
+                                {
+                                    <label>@item.CustomerID</label>
+                                    
+                                                    }*@
+                                <input type="text"  class="form-control form-control-sm" id="txtDocumentClient" placeholder="Invoice number">
+                            </div>
+                            <div class="form-group col-sm-6">
+                                <input type="text" class="form-control form-control-sm" id="txtNameClient" placeholder="Description">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+
+                <div class="card card-default">
+                    
+
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <table id="tbData" class="table" style="width:100%">
+                                    <thead>
+                                        <tr>
+                                            <th></th>
+                                            <th>Photo</th>
+                                            <th>Barcode</th>
+                                            <th>Brand</th>
+                                            <th>CartonSize</th>
+
+                                            <th>Boxes</th>
+                                            <th>Cartons</th>
+                                            <th>InvoiceRate</th>
+                                            <th>RTPrice</th>
+                                            <th>WSPrice</th>
+                                            <th>State</th>
+                                            <th>Category</th>
+                                            <th>InStock</th>
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody></tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="col-sm-3" >
+        <div id="detailfloat" style="position: absolute;">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card shadow mb-4">
+                    <div class="card-header py-3">
+                        <h4>Detail</h4>
+                    </div>
+                    <div class="card-body">
+                      @*  <div class="input-group input-group-sm mb-3">
+                            <div class="input-group-prepend">
+                                <label class="input-group-text" for="cboTypeDocumentSale">Type</label>
+                            </div>
+                            <select class="form-control" id="cboTypeDocumentSale">
+                            </select>
+                        </div>*@
+                        <div class="input-group input-group-sm mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="inputGroupSubTotal">Sub Total</span>
+                            </div>
+                            <input type="text" class="form-control text-right" aria-label="Small" aria-describedby="inputGroupSubTotal" id="txtSubTotal" disabled>
+                        </div>
+                        <div class="input-group input-group-sm mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="inputGroupIGV">Total Taxes(18%)</span>
+                            </div>
+                            <input type="text" class="form-control text-right" aria-label="Small" aria-describedby="inputGroupIGV" id="txtTotalTaxes" disabled>
+                        </div>
+                        <div class="input-group input-group-sm mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="inputGroupTotal">Total</span>
+                            </div>
+                            <input type="text" class="form-control text-right" aria-label="Small" aria-describedby="inputGroupTotal" id="txtTotal" disabled>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card shadow">
+                    <div class="card-body">
+                        <div class="form-group mb-0">
+                            <button class="btn btn-success btn-sm btn-block" id="btnFinalizeSale">Submit</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+
+    <script src="~/plugins/select2/js/select2.js"></script>
+    <script src="~/plugins/data-tables/jquery.datatables.min.js"></script>
+    <script src="~/plugins/data-tables/datatables.bootstrap4.min.js"></script>
+    <script src="~/plugins/data-tables/datatables.responsive.min.js"></script>
+
+
+    <script src="~/plugins/data-tables/dataTables.buttons.min.js"></script>
+    <script src="~/plugins/data-tables/buttons.bootstrap4.min.js"></script>
+    <script src="~/plugins/data-tables/jszip.min.js"></script>
+    <script src="~/plugins/data-tables/buttons.html5.min.js"></script>
+    <script src="~/plugins/data-tables/buttons.print.min.js"></script>
+
+    <script src="~/js/views/NewStock.js"></script>
+}
+

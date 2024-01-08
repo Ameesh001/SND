@@ -1,0 +1,1390 @@
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\appsettings.Development.json
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\appsettings.json
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.staticwebassets.runtime.json
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.exe
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.deps.json
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.runtimeconfig.json
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ref\PointOfSale.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.pdb
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\AutoMapper.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\DinkToPdf.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Humanizer.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\MessagePack.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.Common.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Business.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Data.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Model.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Business.pdb
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Model.pdb
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Data.pdb
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.MvcApplicationPartsAssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.MvcApplicationPartsAssemblyInfo.cache
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.RazorAssemblyInfo.cache
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.RazorAssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\staticwebassets.build.json
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\staticwebassets.development.json
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\scopedcss\bundle\PointOfSale.styles.css
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\scopedcss\projectbundle\PointOfSale.bundle.scp.css
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\ref\PointOfSale.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.pdb
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.genruntimeconfig.cache
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\appsettings.json
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.staticwebassets.runtime.json
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.exe
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.deps.json
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.runtimeconfig.json
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.pdb
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\DinkToPdf.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Humanizer.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\MessagePack.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Business.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Data.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Model.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Business.pdb
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Model.pdb
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Data.pdb
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.AssemblyReference.cache
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.AssemblyInfoInputs.cache
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.AssemblyInfo.cs
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.RazorAssemblyInfo.cache
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.RazorAssemblyInfo.cs
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.PointOfSale.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.build.PointOfSale.props
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PointOfSale.props
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PointOfSale.props
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\scopedcss\bundle\PointOfSale.styles.css
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\scopedcss\projectbundle\PointOfSale.bundle.scp.css
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.CopyComplete
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\refint\PointOfSale.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.pdb
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.genruntimeconfig.cache
+C:\Users\umais\Downloads\PointOfSale\PointOfSale\obj\Debug\net6.0\ref\PointOfSale.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\appsettings.Development.json
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\appsettings.json
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\PointOfSale.staticwebassets.runtime.json
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\PointOfSale.exe
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\PointOfSale.deps.json
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\PointOfSale.runtimeconfig.json
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\PointOfSale.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\PointOfSale.pdb
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\AutoMapper.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\DinkToPdf.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Humanizer.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\MessagePack.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\NuGet.Common.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Business.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Data.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Model.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Business.pdb
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Model.pdb
+D:\PersonalProject\2022\PointofSale\PointOfSale\bin\Debug\net6.0\PointOfSale.Data.pdb
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.AssemblyReference.cache
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\PointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\PointOfSale.AssemblyInfoInputs.cache
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\PointOfSale.AssemblyInfo.cs
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.CoreCompileInputs.cache
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\PointOfSale.MvcApplicationPartsAssemblyInfo.cs
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\PointOfSale.MvcApplicationPartsAssemblyInfo.cache
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\PointOfSale.RazorAssemblyInfo.cache
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\PointOfSale.RazorAssemblyInfo.cs
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.PointOfSale.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.build.PointOfSale.props
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PointOfSale.props
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PointOfSale.props
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\staticwebassets.build.json
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\staticwebassets.development.json
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\scopedcss\bundle\PointOfSale.styles.css
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\scopedcss\projectbundle\PointOfSale.bundle.scp.css
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.CopyComplete
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\PointOfSale.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\refint\PointOfSale.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\PointOfSale.pdb
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\PointOfSale.genruntimeconfig.cache
+D:\PersonalProject\2022\PointofSale\PointOfSale\obj\Debug\net6.0\ref\PointOfSale.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\appsettings.Development.json
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\appsettings.json
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.staticwebassets.runtime.json
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.exe
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.deps.json
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.runtimeconfig.json
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.pdb
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\AutoMapper.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\DinkToPdf.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Humanizer.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\MessagePack.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\NuGet.Common.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.Business.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.Data.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.Model.dll
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.Business.pdb
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.Model.pdb
+D:\PersonalProject\2022\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.Data.pdb
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.AssemblyReference.cache
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.AssemblyInfoInputs.cache
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.AssemblyInfo.cs
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.CoreCompileInputs.cache
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.MvcApplicationPartsAssemblyInfo.cs
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.MvcApplicationPartsAssemblyInfo.cache
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.RazorAssemblyInfo.cache
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.RazorAssemblyInfo.cs
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.PointOfSale.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.build.PointOfSale.props
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PointOfSale.props
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PointOfSale.props
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\staticwebassets.build.json
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\staticwebassets.development.json
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\scopedcss\bundle\PointOfSale.styles.css
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\scopedcss\projectbundle\PointOfSale.bundle.scp.css
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.CopyComplete
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.dll
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\refint\PointOfSale.dll
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.pdb
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.genruntimeconfig.cache
+D:\PersonalProject\2022\POS\PointOfSale\obj\Debug\net6.0\ref\PointOfSale.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\appsettings.Development.json
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\appsettings.json
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.staticwebassets.runtime.json
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.exe
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.deps.json
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.runtimeconfig.json
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.pdb
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\AutoMapper.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\DinkToPdf.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Humanizer.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\MessagePack.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\NuGet.Common.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.Business.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.Data.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.Model.dll
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.Business.pdb
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.Model.pdb
+D:\Umais\MyWorking\POS\PointOfSale\bin\Debug\net6.0\PointOfSale.Data.pdb
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.AssemblyReference.cache
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.AssemblyInfoInputs.cache
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.AssemblyInfo.cs
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.CoreCompileInputs.cache
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.MvcApplicationPartsAssemblyInfo.cs
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.MvcApplicationPartsAssemblyInfo.cache
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.RazorAssemblyInfo.cache
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.RazorAssemblyInfo.cs
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.PointOfSale.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.build.PointOfSale.props
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PointOfSale.props
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PointOfSale.props
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\staticwebassets.build.json
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\staticwebassets.development.json
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\scopedcss\bundle\PointOfSale.styles.css
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\scopedcss\projectbundle\PointOfSale.bundle.scp.css
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.CopyComplete
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.dll
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\refint\PointOfSale.dll
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.pdb
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\PointOfSale.genruntimeconfig.cache
+D:\Umais\MyWorking\POS\PointOfSale\obj\Debug\net6.0\ref\PointOfSale.dll

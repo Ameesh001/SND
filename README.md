@@ -1,2 +1,2 @@
-# SND
-Sales&amp;Distribution
+# POS
+Point of sale and inventory system

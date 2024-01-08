@@ -1,0 +1,85 @@
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.deps.json
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\ref\PointOfSale.Business.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.pdb
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Data.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Model.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Data.pdb
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Model.pdb
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\ref\PointOfSale.Business.dll
+E:\WorkSpaceAD\YOUTUBE 2\004_POINT OF SALE\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.pdb
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.deps.json
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.pdb
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Data.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Model.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Data.pdb
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Model.pdb
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.AssemblyReference.cache
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.AssemblyInfoInputs.cache
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.AssemblyInfo.cs
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.CoreCompileInputs.cache
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.CopyComplete
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\refint\PointOfSale.Business.dll
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.pdb
+C:\Users\umais\Downloads\PointOfSale\PointOfSale.Business\obj\Debug\net6.0\ref\PointOfSale.Business.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.deps.json
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.pdb
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Data.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Model.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Data.pdb
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Model.pdb
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.AssemblyReference.cache
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.AssemblyInfoInputs.cache
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.AssemblyInfo.cs
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.CoreCompileInputs.cache
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.CopyComplete
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\obj\Debug\net6.0\refint\PointOfSale.Business.dll
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.pdb
+D:\PersonalProject\2022\PointofSale\PointOfSale.Business\obj\Debug\net6.0\ref\PointOfSale.Business.dll
+D:\PersonalProject\2022\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.deps.json
+D:\PersonalProject\2022\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.dll
+D:\PersonalProject\2022\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.pdb
+D:\PersonalProject\2022\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Data.dll
+D:\PersonalProject\2022\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Model.dll
+D:\PersonalProject\2022\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Data.pdb
+D:\PersonalProject\2022\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Model.pdb
+D:\PersonalProject\2022\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.AssemblyReference.cache
+D:\PersonalProject\2022\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProject\2022\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.AssemblyInfoInputs.cache
+D:\PersonalProject\2022\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.AssemblyInfo.cs
+D:\PersonalProject\2022\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.CoreCompileInputs.cache
+D:\PersonalProject\2022\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.CopyComplete
+D:\PersonalProject\2022\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.dll
+D:\PersonalProject\2022\POS\PointOfSale.Business\obj\Debug\net6.0\refint\PointOfSale.Business.dll
+D:\PersonalProject\2022\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.pdb
+D:\PersonalProject\2022\POS\PointOfSale.Business\obj\Debug\net6.0\ref\PointOfSale.Business.dll
+D:\Umais\MyWorking\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.deps.json
+D:\Umais\MyWorking\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.dll
+D:\Umais\MyWorking\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Business.pdb
+D:\Umais\MyWorking\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Data.dll
+D:\Umais\MyWorking\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Model.dll
+D:\Umais\MyWorking\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Data.pdb
+D:\Umais\MyWorking\POS\PointOfSale.Business\bin\Debug\net6.0\PointOfSale.Model.pdb
+D:\Umais\MyWorking\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.AssemblyReference.cache
+D:\Umais\MyWorking\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Umais\MyWorking\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.AssemblyInfoInputs.cache
+D:\Umais\MyWorking\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.AssemblyInfo.cs
+D:\Umais\MyWorking\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.CoreCompileInputs.cache
+D:\Umais\MyWorking\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.csproj.CopyComplete
+D:\Umais\MyWorking\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.dll
+D:\Umais\MyWorking\POS\PointOfSale.Business\obj\Debug\net6.0\refint\PointOfSale.Business.dll
+D:\Umais\MyWorking\POS\PointOfSale.Business\obj\Debug\net6.0\PointOfSale.Business.pdb
+D:\Umais\MyWorking\POS\PointOfSale.Business\obj\Debug\net6.0\ref\PointOfSale.Business.dll

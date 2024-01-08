@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\PersonalProject\2022\POS\PointOfSale\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-10-16T17:58:12.1396460Z;True|2023-07-29T04:56:26.5593894+05:00;True|2023-07-29T04:35:22.5171745+05:00;True|2023-07-29T04:33:22.3543992+05:00;True|2023-07-29T04:07:21.5432431+05:00;True|2023-07-29T04:04:10.1145199+05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
